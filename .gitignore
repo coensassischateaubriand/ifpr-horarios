@@ -1,8 +1,8 @@
 node_modules
 .docusaurus
-build
 backend
 frontend
 .env
 backend/.env
 frontend/.env
+build
